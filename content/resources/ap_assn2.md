@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 549db3c7-330e-b0d5-d5b3-218a8dca6dff
 resourcetype: Document
 title: Application Portfolio Assignment 2
 uid: b9cd1b6d-2547-cd6f-e5b6-aae32257f0c5

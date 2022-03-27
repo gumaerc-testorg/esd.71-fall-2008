@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 549db3c7-330e-b0d5-d5b3-218a8dca6dff
 resourcetype: Document
 title: "Application Portfolio Assignment \u2013 Part 3 + 4 Combined"
 uid: 5c437f86-031e-6f79-79ed-ce37eaf81dfe

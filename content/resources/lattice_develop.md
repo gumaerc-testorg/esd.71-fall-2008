@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 549db3c7-330e-b0d5-d5b3-218a8dca6dff
 resourcetype: Document
 title: Lattice Development
 uid: f00ba0a1-667a-8ca6-3ada-a5d8f81a6a7a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 549db3c7-330e-b0d5-d5b3-218a8dca6dff
 resourcetype: Document
 title: Optimum Capacity Expansion
 uid: 818964ba-3c52-89ef-c0c4-3225383ff84a

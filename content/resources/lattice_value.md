@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 549db3c7-330e-b0d5-d5b3-218a8dca6dff
 resourcetype: Document
 title: Option Valuation by Lattice Assignment
 uid: 18ef91f0-d868-dd96-37c1-bf7c4428e6c4
