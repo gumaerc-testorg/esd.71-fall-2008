@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, organization
+  of the subject, important notes, prerequisites, course materials, recitations, assignments,
+  grading, and academic honesty.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +21,7 @@ This MIT OpenCourseWare site is based on the materials from [Professor de Neufvi
 Important Notes
 ---------------
 
-*   This course emphasizes the development of "application portfolios". These assignments show how the course material applies to each student's own professional interests (see the [assignments]({{< baseurl >}}/pages/assignments) section). Students have routinely incorporated these applications in their research, thesis, and professional presentations.
+*   This course emphasizes the development of "application portfolios". These assignments show how the course material applies to each student's own professional interests (see the {{% resource_link 549db3c7-330e-b0d5-d5b3-218a8dca6dff "assignments" %}} section). Students have routinely incorporated these applications in their research, thesis, and professional presentations.
 *   The subject assumes that participants are competent in the material covered by ESD.70J, the 3-unit micro-subject that covers Excel spreadsheet analyses. Go to that site for a self-assessment of whether you need to audit that subject (experience indicates you probably do).
 
 Organization of Subject
