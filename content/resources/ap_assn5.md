@@ -6,6 +6,7 @@ file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/31f7b4cf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Application Portfolio Assignment \u2013 Part 5"
 uid: 31f7b4cf-aa31-b9bd-e01f-a8fb86a283f7
 ---
 Part 5 of the Application Portfolio Assignment to develop a lattice depicting the development of a major uncertainty that applies to your case.
-

@@ -5,6 +5,7 @@ file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/959b2408
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Application Portfolios: Grading Criteria'
 uid: 959b2408-71cd-5df7-e63a-14e34b753b86
 ---
 Guidelines on how Application Portfolios will be graded.
-

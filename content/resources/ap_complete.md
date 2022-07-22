@@ -5,6 +5,7 @@ file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/5b214283
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Complete Revised Portfolio
 uid: 5b214283-f193-a249-f2c9-e50611344e28
 ---
 The final part of the Application Portfolio Assignment of the course.
-

@@ -6,6 +6,7 @@ file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/d0f56982
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Application Portfolio Assignment \u2013 Part 6"
 uid: d0f56982-8a4d-2428-00a6-4973b71f6c5a
 ---
 Part 6 of the Application Portfolio Assignment on decision analysis given a lattice of probabilities and states.
-

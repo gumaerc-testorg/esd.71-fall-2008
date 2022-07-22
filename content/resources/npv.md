@@ -5,6 +5,7 @@ file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/109fbb60
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: NPV Assignment
 uid: 109fbb60-2e13-e665-a68e-58477069f365
 ---
 Assignment on net present values.
-

@@ -12,10 +12,10 @@ image_metadata:
   image-alt: 'Collage of three small photographs: a bridge, construction equipment,
     and a space station.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-71f08-th.jpg
 uid: 8e1f0f48-70b6-ede4-5b23-4fddf8547ee1
 ---
 New image Upload
-

@@ -6,6 +6,7 @@ file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/818964ba
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optimum Capacity Expansion
 uid: 818964ba-3c52-89ef-c0c4-3225383ff84a
 ---
 Assignment on optimum capacity expansion, the capacity expansion problem and its possible optimal solution, and use of NPV analysis on spreadsheets.
-
