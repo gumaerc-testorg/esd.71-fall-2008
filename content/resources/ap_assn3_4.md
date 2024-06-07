@@ -6,6 +6,7 @@ description: Parts 3 and 4 of the Application Portfolio Assignment to build a su
   you will be analyzing and then set up and carry out a 2-stage Decision Analysis
   of the designs identified.
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/5c437f86031e6f7979edce37eaf81dfe_ap_assn3_4.pdf
+file_size: 77252
 file_type: application/pdf
 learning_resource_types:
 - Assignments

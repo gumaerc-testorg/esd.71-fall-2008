@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on forecasting and uncertainty.
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/22fbf672ed69e537e6373e9115ecbca1_uncertainty.pdf
+file_size: 94126
 file_type: application/pdf
 learning_resource_types:
 - Assignments

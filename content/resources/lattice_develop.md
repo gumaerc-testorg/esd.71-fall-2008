@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment intended to help you understand how to develop and use a lattice
   to project possible uncertainties.
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/f00ba0a1667a8ca63adaa5d8f81a6a7a_lattice_develop.pdf
+file_size: 107698
 file_type: application/pdf
 learning_resource_types:
 - Assignments
