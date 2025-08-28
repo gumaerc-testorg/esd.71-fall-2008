@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment on optimum capacity expansion, the capacity expansion problem
   and its possible optimal solution, and use of NPV analysis on spreadsheets.
-file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/818964ba3c5289efc0c43225383ff84a_opt_capacity.pdf
+file: /ol-ocw-studio-app/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/818964ba3c5289efc0c43225383ff84a_opt_capacity.pdf
 file_size: 196939
 file_type: application/pdf
 learning_resource_types:
