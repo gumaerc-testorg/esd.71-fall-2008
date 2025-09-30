@@ -15,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 1 session / week, 1 hour / session
 
-This MIT OpenCourseWare site is based on the materials from [Professor de Neufville's ESD.71 Web site](https://ardent.mit.edu/). Additional materials, updated as needed by Professor de Neufville, can be found there.
+This MIT OpenCourseWare site is based on the materials from {{% resource_link "1700495f-6b86-4241-baba-e202e1fb8953" "Professor de Neufville's ESD.71 Web site" %}}. Additional materials, updated as needed by Professor de Neufville, can be found there.
 
 ## Important Notes
 
@@ -69,9 +69,9 @@ de Neufville, Richard. *Applied Systems Analysis*. New York, NY: McGraw-Hill, 19
 
 All students will be expected to have an up-to-date full version of Excel. They may also want to try the following optional add-ins:
 
-**TreeAge Pro** can be downloaded for a 21-day trial from: [TreeAge Pro Trial Version Download](http://treeage-pro.software.informer.com/6.0/), and student licenses can be obtained from: [The TreeAge Software Store](https://www.treeage.com/shop/).
+**TreeAge Pro** can be downloaded for a 21-day trial from: {{% resource_link "890fe29f-c70a-4269-9df2-05aab13f12fc" "TreeAge Pro Trial Version Download" %}}, and student licenses can be obtained from: {{% resource_link "99e8e8c0-6d86-4765-b7a2-6106975fcdc7" "The TreeAge Software Store" %}}.
 
-**Crystal Ball** information is available here: [Oracle Crystal Ball Classroom Edition](https://www.oracle.com/applications/crystalball/).
+**Crystal Ball** information is available here: {{% resource_link "df15df1b-0852-4b5b-8994-28d168be1da4" "Oracle Crystal Ball Classroom Edition" %}}.
 
 Participants can view and download PDF copies of the PowerPoint slides on the course Web site. As the instructors routinely improve their presentations as the class proceeds, the Web versions of the slides change from time to time. Students may wish to verify that they have the latest version before downloading the slides for reference in class.
 
